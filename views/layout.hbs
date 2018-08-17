@@ -10,5 +10,30 @@
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="/javascripts/color.jquery.js"></script>
     <script src="/javascripts/jquery.usmap.js"></script>
+
+    <script type="text/javascript">
+      $('#map').usmap({
+        'stateSpecificStyles': {
+          'AK' : {fill: '#f00'}
+        },
+        'stateSpecificHoverStyles': {
+          'HI' : {fill: '#ff0'}
+        },
+
+        'mouseoverState': {
+          'HI' : function(event, data) {
+            //return false;
+          }
+        },
+        
+        'click' : function(event, data) {
+          $('#alert')
+            .text('Click '+data.name+' on map 1')
+            .stop()
+            .css('backgroundColor', '#ff0')
+            .animate({backgroundColor: '#ddd'}, 1000);
+        }
+      });
+    </script>
   </body>
 </html>

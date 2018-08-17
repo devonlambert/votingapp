@@ -1,12 +1,5 @@
 <h1>{{title}}</h1>
-<p>Welcome to {{title}}</p>
 
-<p>Here's our Poll Data:</p>
-<ul>
-  {{#each pollData}}
-    <li>{{state}}:
-      <a target="_blank" href="{{voterRegistrationHomePage}}">Register To Vote</a> |
-      <a target="_blank" href="{{registrationStatusCheck}}">Check Registration Status</a>
-    </li>
-  {{/each}}
-</ul>
+<div id="alert">Click alerts</div>
+
+<div id="map" style="width: 930px; height: 630px; border: solid 3px red;"></div>
