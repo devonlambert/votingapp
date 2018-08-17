@@ -13,4 +13,9 @@ a {
   padding: 5px;
   font-weight: bold; }
 
+#map {
+  width: 960px;
+  height: 630px;
+  border: solid 3px red; }
+
 /*# sourceMappingURL=style.css.map */

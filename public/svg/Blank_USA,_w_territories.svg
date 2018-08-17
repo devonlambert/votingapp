@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="630">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 100 100">
 <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
@@ -69,72 +69,72 @@
 <!-- labels for smaller locations -->
 <g id="DC-label">
   <line x1="800" y1="250" x2="910" y2="333" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="325" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="325" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="915" y="339">DC</text>
 </g>
 <g id="MD-label">
   <line x1="830" y1="260" x2="910" y2="308" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="300" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="300" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="915" y="314">MD</text>
 </g>
 <g id="DE-label">
   <line x1="830" y1="250" x2="910" y2="283" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="275" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="275" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="915" y="289">DE</text>
 </g>
 <g id="NJ-label">
   <line x1="840" y1="230" x2="910" y2="258" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="250" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="250" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="915" y="264">NJ</text>
 </g>
 <g id="CT-label">
   <line x1="860" y1="180" x2="910" y2="233" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="225" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="225" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="915" y="239">CT</text>
 </g>
 <g id="RI-label">
   <line x1="878" y1="173" x2="910" y2="208" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="200" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="200" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="917" y="214">RI</text>
 </g>
 <g id="MH-label">
   <line x1="885" y1="160" x2="910" y2="183" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="175" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="175" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="914" y="189">MH</text>
 </g>
 <g id="MH-label">
   <line x1="870" y1="140" x2="910" y2="158" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="150" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="150" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="915" y="164">NH</text>
 </g>
 <g id="VT-label">
   <line x1="845" y1="130" x2="910" y2="133" style="stroke:red; stroke-width:2" />
-  <rect rx="3" width="30" height="17" fill="red"  x="910" y="125" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="910" y="125" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="915" y="139">VT</text>
 </g>
 
 <g id="AS-label" class="territory">
-  <rect rx="3" width="30" height="17" fill="red"  x="602" y="595" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="602" y="595" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="607" y="609">AS</text>
 </g>
 
 <g id="MP-label" class="territory">
-  <rect rx="3" width="30" height="17" fill="red"  x="645" y="595" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="645" y="595" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="650" y="609">MP</text>
 </g>
 
 <g id="GU-label" class="territory">
-  <rect rx="3" width="30" height="17" fill="red"  x="559" y="595" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="559" y="595" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="563" y="609">GU</text>
 </g>
 
 <g id="VI-label" class="territory">
-  <rect rx="3" width="30" height="17" fill="red"  x="645" y="500" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="645" y="500" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="653" y="514">VI</text>
 </g>
 
 <g id="PR-label" class="territory">
-  <rect rx="3" width="30" height="17" fill="red"  x="575" y="500" /> 
+  <rect rx="3" width="30" height="17" fill="red"  x="575" y="500" />
   <text font-size="15" font-weight="bold" fill="black" font-family="Arial, sans-serif" x="580" y="514">PR</text>
 </g>
 
