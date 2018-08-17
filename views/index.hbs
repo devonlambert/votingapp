@@ -1,2 +1,12 @@
 <h1>{{title}}</h1>
 <p>Welcome to {{title}}</p>
+
+<p>Here's our Poll Data:</p>
+<ul>
+  {{#each pollData}}
+    <li>{{state}}:
+      <a href="{{voterRegistrationHomePage}}">Register To Vote</a> | 
+      <a href="{{registrationStatusCheck}}">Check Registration Status</a>
+    </li>
+  {{/each}}
+</ul>
