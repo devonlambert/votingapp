@@ -38,7 +38,15 @@
           });
 
           $('#alert')
-            .text('Click '+clickedState.state+' on map 1')
+            .html(`<p>You selected ${clickedState.state}. </p>
+              <ul>
+                <li>
+                  <a href="${clickedState.voterRegistrationHomePage}" target="_blank">Voter Registration</a>
+                </li>
+                <li>
+                  <a href="${clickedState.registrationStatusCheck}" target="_blank">Registration Status</a>
+                </li>
+              </ul>`)
             .stop()
             .css('backgroundColor', '#ff0')
             .animate({backgroundColor: '#ddd'}, 1000);
