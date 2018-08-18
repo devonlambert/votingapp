@@ -15,12 +15,6 @@
     <script type="text/javascript">
       var pollData = {{{pollData}}};
 
-      var found = pollData.find(state => {
-        return state.stateAbbrev === 'MA';
-      });
-
-      console.log(found);
-
       $('#map').usmap({
         'stateSpecificStyles': {
           'AK' : {fill: '#f00'}
@@ -39,8 +33,12 @@
 
         'click' : function(event, data) {
 
+          var clickedState = pollData.find(state => {
+              return state.stateAbbrev === data.name;
+          });
+
           $('#alert')
-            .text('Click '+data.name+' on map 1')
+            .text('Click '+clickedState.state+' on map 1')
             .stop()
             .css('backgroundColor', '#ff0')
             .animate({backgroundColor: '#ddd'}, 1000);
