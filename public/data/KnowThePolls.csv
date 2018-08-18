@@ -1,52 +1,52 @@
-State,Voter Registration Home Page,Registration Status Check
-Alabama,https://sos.alabama.gov/alabama-votes/voter/register-to-vote,https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do
-Alaska,https://voterregistration.alaska.gov/,https://myvoterinformation.alaska.gov/
-Arizona,https://servicearizona.com/webapp/evoter/selectLanguage,https://voter.azsos.gov/VoterView/RegistrantSearch.do
-Arkansas,https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information,https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do
-California,https://registertovote.ca.gov/,https://voterstatus.sos.ca.gov/
-Colorado,https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml,https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml
-Connecticut,https://voterregistration.ct.gov/OLVR/welcome.do,https://portaldir.ct.gov/sots/LookUp.aspx
-Delaware,https://ivote.de.gov/voterregterms.aspx,https://ivote.de.gov/voterlogin.aspx
-Florida,https://registertovoteflorida.gov/en/Registration/Index,https://registration.elections.myflorida.com/CheckVoterStatus
-Georgia,https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button,https://www.mvp.sos.ga.gov/MVP/mvp.do
-Hawaii,https://olvr.hawaii.gov/register.aspx,https://elections.hawaii.gov/resources/county-election-divisions/
-Idaho,https://apps.idahovotes.gov/OnlineVoterRegistration/Home/SubmitWelcome,https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx
-Illinois,https://ova.elections.il.gov/Step0.aspx,https://ova.elections.il.gov/RegistrationLookup.aspx
-Indiana,https://indianavoters.in.gov/,https://indianavoters.in.gov/
-Iowa,https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration,https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx
-Kansas,https://www.kdor.ks.gov/apps/voterreg/secure/default.aspx,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do
-Kentucky,https://vrsws.sos.ky.gov/ovrweb/,https://vrsws.sos.ky.gov/VIC/
-Louisiana,https://voterportal.sos.la.gov/VoterRegistration,https://voterportal.sos.la.gov/Home/VoterLogin
-Maine,https://www.maine.gov/sos/cec/elec/data/voterregcard2017.pdf,https://www1.maine.gov/portal/government/edemocracy/voter_lookup.php
-Maryland,https://voterservices.elections.maryland.gov/OnlineVoterRegistration/VoterType,https://voterservices.elections.maryland.gov/votersearch
-Massachusetts,https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register,https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx
-Michigan,https://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf,https://webapps.sos.state.mi.us/MVIC/
-Minnesota,https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx,https://mnvotes.sos.state.mn.us/VoterStatus.aspx
-Mississippi,http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf,https://www.msegov.com/sos/voter_registration/amiregistered/Search
-Missouri,https://s1.sos.mo.gov/votemissouri/request,https://s1.sos.mo.gov/elections/voterlookup/
-Montana,https://sosmt.gov/Portals/142/Elections/Forms/Voter_Registration_Application.pdf,https://app.mt.gov/cgi-bin/voterinfo/voterinfo.cgi
-Nebraska,https://www.nebraska.gov/apps-sos-voter-registration/eligibility/citizen,https://www.votercheck.necvr.ne.gov/VoterView/RegistrantSearch.do
-Nevada,https://www.nvsos.gov/SOSVoterServices/Registration/Step0-a.aspx,https://www.nvsos.gov/votersearch/
-New Hampshire,http://sos.nh.gov/HowRegVote.aspx,https://app.sos.nh.gov/Public/PartyInfo.aspx
-New Jersey,https://www.state.nj.us/state/elections/voting-information.html,https://voter.njsvrs.com/PublicAccess/servlet/com.saber.publicaccess.control.PublicAccessNavigationServlet?USERPROCESS=PublicSearch
-New Mexico,http://www.sos.state.nm.us/Voter_Information/Voter_Registration_Information.aspx,https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1
-New York,http://www.elections.ny.gov/votingregister.html,https://voterlookup.elections.ny.gov/
-North Carolina,https://www.ncsbe.gov/Portals/0/Forms/NCVoterRegForm06W.pdf,https://vt.ncsbe.gov/RegLkup/
-North Dakota,https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=71&ptlPKID=7,https://vip.sos.nd.gov/WhereToVoteID.aspx?tab=VoterLookup&ptlPKID=7&ptlhPKID=51
-Ohio,https://olvr.sos.state.oh.us/AffirmEligibility,https://voterlookup.sos.state.oh.us/voterlookup.aspx
-Oklahoma,https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf,https://services.okelections.us/voterSearch.aspx
-Oregon,https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS,https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do
-Pennsylvania,https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx,https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx
-Rhode Island,https://vote.sos.ri.gov/,https://vote.sos.ri.gov/
-South Carolina,https://info.scvotes.sc.gov/eng/ovr/start.aspx,https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo
-South Dakota,https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf,https://vip.sdsos.gov/viplogin.aspx
-Tennessee,https://ovr.govote.tn.gov/,https://tnmap.tn.gov/voterlookup/
-Texas,https://webservices.sos.state.tx.us/vrapp/index.asp,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do
-Utah,https://secure.utah.gov/voterreg/login.html?selection=REGISTER,https://vote.utah.gov/vote/menu/index
-Vermont,https://olvr.sec.state.vt.us/,https://mvp.sec.state.vt.us/
-Virginia,https://vote.elections.virginia.gov/Registration/Eligibility,https://vote.elections.virginia.gov/VoterInformation
-Washington,https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR,https://weiapplets.sos.wa.gov/MyVote/#/login
-"Washington, DC",https://www.vote4dc.com/ApplyInstructions/Register,https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status
-West Virginia,https://ovr.sos.wv.gov/Register/Landing#Qualifications,https://services.sos.wv.gov/Elections/Voter/AmIRegisteredToVote
-Wisconsin,https://myvote.wi.gov/en-us/RegisterToVote,https://myvote.wi.gov/en-us/MyVoterInfo
-Wyoming,http://soswy.state.wy.us/Forms/Elections/General/VoterRegistrationForm.pdf,http://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf
+stateAbbrev,state,voterRegistrationHomePage,registrationStatusCheck
+AL,Alabama,https://sos.alabama.gov/alabama-votes/voter/register-to-vote,https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do
+AK,Alaska,https://voterregistration.alaska.gov/,https://myvoterinformation.alaska.gov/
+AZ,Arizona,https://servicearizona.com/webapp/evoter/selectLanguage,https://voter.azsos.gov/VoterView/RegistrantSearch.do
+AR,Arkansas,https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information,https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do
+CA,California,https://registertovote.ca.gov/,https://voterstatus.sos.ca.gov/
+CO,Colorado,https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml,https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml
+CT,Connecticut,https://voterregistration.ct.gov/OLVR/welcome.do,https://portaldir.ct.gov/sots/LookUp.aspx
+DE,Delaware,https://ivote.de.gov/voterregterms.aspx,https://ivote.de.gov/voterlogin.aspx
+DC,Florida,https://registertovoteflorida.gov/en/Registration/Index,https://registration.elections.myflorida.com/CheckVoterStatus
+FL,Georgia,https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button,https://www.mvp.sos.ga.gov/MVP/mvp.do
+GA,Hawaii,https://olvr.hawaii.gov/register.aspx,https://elections.hawaii.gov/resources/county-election-divisions/
+HI,Idaho,https://apps.idahovotes.gov/OnlineVoterRegistration/Home/SubmitWelcome,https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx
+ID,Illinois,https://ova.elections.il.gov/Step0.aspx,https://ova.elections.il.gov/RegistrationLookup.aspx
+IL,Indiana,https://indianavoters.in.gov/,https://indianavoters.in.gov/
+IN,Iowa,https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration,https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx
+IA,Kansas,https://www.kdor.ks.gov/apps/voterreg/secure/default.aspx,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do
+KS,Kentucky,https://vrsws.sos.ky.gov/ovrweb/,https://vrsws.sos.ky.gov/VIC/
+KY,Louisiana,https://voterportal.sos.la.gov/VoterRegistration,https://voterportal.sos.la.gov/Home/VoterLogin
+LA,Maine,https://www.maine.gov/sos/cec/elec/data/voterregcard2017.pdf,https://www1.maine.gov/portal/government/edemocracy/voter_lookup.php
+ME,Maryland,https://voterservices.elections.maryland.gov/OnlineVoterRegistration/VoterType,https://voterservices.elections.maryland.gov/votersearch
+MD,Massachusetts,https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register,https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx
+MA,Michigan,https://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf,https://webapps.sos.state.mi.us/MVIC/
+MI,Minnesota,https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx,https://mnvotes.sos.state.mn.us/VoterStatus.aspx
+MN,Mississippi,http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf,https://www.msegov.com/sos/voter_registration/amiregistered/Search
+MS,Missouri,https://s1.sos.mo.gov/votemissouri/request,https://s1.sos.mo.gov/elections/voterlookup/
+MO,Montana,https://sosmt.gov/Portals/142/Elections/Forms/Voter_Registration_Application.pdf,https://app.mt.gov/cgi-bin/voterinfo/voterinfo.cgi
+MT,Nebraska,https://www.nebraska.gov/apps-sos-voter-registration/eligibility/citizen,https://www.votercheck.necvr.ne.gov/VoterView/RegistrantSearch.do
+NE,Nevada,https://www.nvsos.gov/SOSVoterServices/Registration/Step0-a.aspx,https://www.nvsos.gov/votersearch/
+NV,New Hampshire,http://sos.nh.gov/HowRegVote.aspx,https://app.sos.nh.gov/Public/PartyInfo.aspx
+NH,New Jersey,https://www.state.nj.us/state/elections/voting-information.html,https://voter.njsvrs.com/PublicAccess/servlet/com.saber.publicaccess.control.PublicAccessNavigationServlet?USERPROCESS=PublicSearch
+NJ,New Mexico,http://www.sos.state.nm.us/Voter_Information/Voter_Registration_Information.aspx,https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1
+NM,New York,http://www.elections.ny.gov/votingregister.html,https://voterlookup.elections.ny.gov/
+NY,North Carolina,https://www.ncsbe.gov/Portals/0/Forms/NCVoterRegForm06W.pdf,https://vt.ncsbe.gov/RegLkup/
+NC,North Dakota,https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=71&ptlPKID=7,https://vip.sos.nd.gov/WhereToVoteID.aspx?tab=VoterLookup&ptlPKID=7&ptlhPKID=51
+ND,Ohio,https://olvr.sos.state.oh.us/AffirmEligibility,https://voterlookup.sos.state.oh.us/voterlookup.aspx
+OH,Oklahoma,https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf,https://services.okelections.us/voterSearch.aspx
+OK,Oregon,https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS,https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do
+OR,Pennsylvania,https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx,https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx
+PA,Rhode Island,https://vote.sos.ri.gov/,https://vote.sos.ri.gov/
+RI,South Carolina,https://info.scvotes.sc.gov/eng/ovr/start.aspx,https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo
+SC,South Dakota,https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf,https://vip.sdsos.gov/viplogin.aspx
+SD,Tennessee,https://ovr.govote.tn.gov/,https://tnmap.tn.gov/voterlookup/
+TN,Texas,https://webservices.sos.state.tx.us/vrapp/index.asp,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do
+TX,Utah,https://secure.utah.gov/voterreg/login.html?selection=REGISTER,https://vote.utah.gov/vote/menu/index
+UT,Vermont,https://olvr.sec.state.vt.us/,https://mvp.sec.state.vt.us/
+VT,Virginia,https://vote.elections.virginia.gov/Registration/Eligibility,https://vote.elections.virginia.gov/VoterInformation
+VA,Washington,https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR,https://weiapplets.sos.wa.gov/MyVote/#/login
+WA,"Washington, DC",https://www.vote4dc.com/ApplyInstructions/Register,https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status
+WV,West Virginia,https://ovr.sos.wv.gov/Register/Landing#Qualifications,https://services.sos.wv.gov/Elections/Voter/AmIRegisteredToVote
+WI,Wisconsin,https://myvote.wi.gov/en-us/RegisterToVote,https://myvote.wi.gov/en-us/MyVoterInfo
+WY,Wyoming,http://soswy.state.wy.us/Forms/Elections/General/VoterRegistrationForm.pdf,http://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf
