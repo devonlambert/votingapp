@@ -3,7 +3,7 @@ var router = express.Router();
 var fs = require('fs');
 
 /* GET the JSON data */
-var pollData = JSON.parse(fs.readFileSync(__dirname + '/../public/data/polldata.json'));
+var pollData = JSON.stringify(JSON.parse(fs.readFileSync(__dirname + '/../public/data/polldata.json')));
 
 /* GET home page. */
 router.get('/', function(req, res, next) {

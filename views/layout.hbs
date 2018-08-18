@@ -13,6 +13,14 @@
     <script src="/javascripts/jquery.usmap.js"></script>
 
     <script type="text/javascript">
+      var pollData = {{{pollData}}};
+
+      var found = pollData.find(state => {
+        return state.stateAbbrev === 'MA';
+      });
+
+      console.log(found);
+
       $('#map').usmap({
         'stateSpecificStyles': {
           'AK' : {fill: '#f00'}
@@ -30,6 +38,7 @@
         useAllLabels: true,
 
         'click' : function(event, data) {
+
           $('#alert')
             .text('Click '+data.name+' on map 1')
             .stop()
