@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>{{title}}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
@@ -16,19 +17,6 @@
       var pollData = {{{pollData}}};
 
       $('#map').usmap({
-        'stateSpecificStyles': {
-          'AK' : {fill: '#f00'}
-        },
-        'stateSpecificHoverStyles': {
-          'HI' : {fill: '#ff0'}
-        },
-
-        'mouseoverState': {
-          'HI' : function(event, data) {
-            //return false;
-          }
-        },
-
         useAllLabels: true,
 
         'click' : function(event, data) {
