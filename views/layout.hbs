@@ -36,19 +36,28 @@
               return state.stateAbbrev === data.name;
           });
 
-          $('#alert')
-            .html(`<p>You selected ${clickedState.state}. </p>
-              <ul>
-                <li>
-                  <a href="${clickedState.voterRegistrationHomePage}" target="_blank">Voter Registration</a>
-                </li>
-                <li>
-                  <a href="${clickedState.registrationStatusCheck}" target="_blank">Registration Status</a>
-                </li>
-              </ul>`)
-            .stop()
-            .css('backgroundColor', '#ff0')
-            .animate({backgroundColor: '#ddd'}, 1000);
+          $('#voter_information')
+            .html(`<div class="card">
+                <div class="card-header">Voter Info for ${clickedState.state}</div>
+                <div class="card-body">
+                  <p class="card-text">The links below provide voter registration and voter registration status information for ${clickedState.state}.</p>
+                  <a
+                    target="_blank"
+                    href="${clickedState.voterRegistrationHomePage}"
+                    class="btn btn-primary">Voter Registration
+                  </a>
+                  <br />
+                  <br />
+                  <a
+                    target="_blank"
+                    href="${clickedState.registrationStatusCheck}"
+                    class="btn btn-primary">Registration Status
+                  </a>
+                </div>
+              </div>`);
+            //.stop()
+            //.css('backgroundColor', '#ff0')
+            //.animate({backgroundColor: '#ddd'}, 1000);
         }
       });
     </script>
