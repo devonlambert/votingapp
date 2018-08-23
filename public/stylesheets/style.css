@@ -7,8 +7,7 @@
   font-weight: bold; }
 
 #map {
-  height: 630px;
-  border: solid 3px red; }
+  height: 630px; }
 
 :root {
   --jumbotron-padding-y: 3rem; }
