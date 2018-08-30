@@ -9,9 +9,32 @@ header
   padding: 5px
   font-weight: bold
 
-#map
-  //width: 960px
-  height: 630px
+@media (max-width: 575px)
+  #map
+    width: 280px
+    height: 630px
+
+@media (min-width: 576px)
+  #map
+    width: 395px
+    height: 630px
+
+@media (min-width: 768px)
+  #map
+    width: 520px
+    height: 630px
+
+@media (min-width: 992px)
+  #map
+    width: 700px
+    height: 630px
+
+@media (min-width: 1200px)
+  #map
+    width: 825px
+    height: 630px
+
+
 
 // Styles lifted from bootstrap album template
 

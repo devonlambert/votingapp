@@ -27,6 +27,13 @@
     <script type="text/javascript">
       var pollData = {{{pollData}}};
 
+      // On Window Resize, adjust the width of our map
+      /*$(window).resize((e) => {
+          $("#map")
+            .attr("viewbox", `0, 0, ${$('#map').innerWidth()}, 630`)
+      });*/
+
+      // Draw our map and set the click event
       $('#map').usmap({
         useAllLabels: true,
 
