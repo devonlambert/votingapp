@@ -27,6 +27,27 @@
     <script type="text/javascript">
       var pollData = {{{pollData}}};
 
+      // Add data to our select dropdown
+      let dropdown = $('#state-dropdown');
+
+      dropdown.empty();
+
+      dropdown.append('<option selected="true" disabled>Choose State</option>');
+      dropdown.prop('selectedIndex', 0);
+
+      // Populate dropdown with list of provinces
+      pollData.forEach((entry, key) => {
+          dropdown.append($('<option></option>').attr('value', entry.stateAbbrev).text(entry.state));
+      });
+
+      dropdown.change((data) => {
+        var selectedState = pollData.find(state => {
+          return state.stateAbbrev === data.target.value;
+        });
+
+        updateVoterInformation(selectedState);
+      });
+
       // On Window Resize, adjust the width of our map
       /*$(window).resize((e) => {
           $("#map")
@@ -43,30 +64,32 @@
               return state.stateAbbrev === data.name;
           });
 
-          $('#voter_information')
-            .html(`<div class="card">
-                <div class="card-header">Voter Info for ${clickedState.state}</div>
-                <div class="card-body">
-                  <p class="card-text">The links below provide voter registration and voter registration status information for ${clickedState.state}.</p>
-                  <a
-                    target="_blank"
-                    href="${clickedState.voterRegistrationHomePage}"
-                    class="btn btn-primary">Voter Registration
-                  </a>
-                  <br />
-                  <br />
-                  <a
-                    target="_blank"
-                    href="${clickedState.registrationStatusCheck}"
-                    class="btn btn-primary">Registration Status
-                  </a>
-                </div>
-              </div>`);
-            //.stop()
-            //.css('backgroundColor', '#ff0')
-            //.animate({backgroundColor: '#ddd'}, 1000);
+          updateVoterInformation(clickedState);
         }
       });
+
+      // Utility Functoin
+      var updateVoterInformation = (state) => {
+        $('#voter_information')
+          .html(`<div class="card">
+              <div class="card-header">Voter Info for ${state.state}</div>
+              <div class="card-body">
+                <p class="card-text">The links below provide voter registration and voter registration status information for ${state.state}.</p>
+                <a
+                  target="_blank"
+                  href="${state.voterRegistrationHomePage}"
+                  class="btn btn-primary">Voter Registration
+                </a>
+                <br />
+                <br />
+                <a
+                  target="_blank"
+                  href="${state.registrationStatusCheck}"
+                  class="btn btn-primary">Registration Status
+                </a>
+              </div>
+            </div>`);
+      };
     </script>
   </body>
 </html>
