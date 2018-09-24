@@ -8,7 +8,7 @@ var pollData = JSON.stringify(JSON.parse(fs.readFileSync(__dirname + '/../public
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', {
-    title: 'Voting App',
+    title: 'Voting App Beta',
     pollData: pollData
   });
 });
