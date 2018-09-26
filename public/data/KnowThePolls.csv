@@ -1,52 +1,52 @@
-Abbreviation,State,Voter Registration Home Page,Registration Status Check
-AL,Alabama,https://sos.alabama.gov/alabama-votes/voter/register-to-vote,https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do
-AK,Alaska,https://voterregistration.alaska.gov/,https://myvoterinformation.alaska.gov/
-AZ,Arizona,https://servicearizona.com/webapp/evoter/selectLanguage,https://voter.azsos.gov/VoterView/RegistrantSearch.do
-AR,Arkansas,https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information,https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do
-CA,California,https://registertovote.ca.gov/,https://voterstatus.sos.ca.gov/
-CO,Colorado,https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml,https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml
-CT,Connecticut,https://voterregistration.ct.gov/OLVR/welcome.do,https://portaldir.ct.gov/sots/LookUp.aspx
-DE,Delaware,https://ivote.de.gov/voterregterms.aspx,https://ivote.de.gov/voterlogin.aspx
-FL,Florida,https://registertovoteflorida.gov/en/Registration/Index,https://registration.elections.myflorida.com/CheckVoterStatus
-GA,Georgia,https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button,https://www.mvp.sos.ga.gov/MVP/mvp.do
-HI,Hawaii,https://olvr.hawaii.gov/register.aspx,https://elections.hawaii.gov/resources/county-election-divisions/
-ID,Idaho,https://apps.idahovotes.gov/OnlineVoterRegistration/Home/SubmitWelcome,https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx
-IL,Illinois,https://ova.elections.il.gov/Step0.aspx,https://ova.elections.il.gov/RegistrationLookup.aspx
-IN,Indiana,https://indianavoters.in.gov/,https://indianavoters.in.gov/
-IA,Iowa,https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration,https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx
-KS,Kansas,https://www.kdor.ks.gov/apps/voterreg/secure/default.aspx,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do
-KY,Kentucky,https://vrsws.sos.ky.gov/ovrweb/,https://vrsws.sos.ky.gov/VIC/
-LA,Louisiana,https://voterportal.sos.la.gov/VoterRegistration,https://voterportal.sos.la.gov/Home/VoterLogin
-ME,Maine,https://www.maine.gov/sos/cec/elec/data/voterregcard2017.pdf,https://www1.maine.gov/portal/government/edemocracy/voter_lookup.php
-MD,Maryland,https://voterservices.elections.maryland.gov/OnlineVoterRegistration/VoterType,https://voterservices.elections.maryland.gov/votersearch
-MA,Massachusetts,https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register,https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx
-MI,Michigan,https://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf,https://webapps.sos.state.mi.us/MVIC/
-MN,Minnesota,https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx,https://mnvotes.sos.state.mn.us/VoterStatus.aspx
-MS,Mississippi,http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf,https://www.msegov.com/sos/voter_registration/amiregistered/Search
-MO,Missouri,https://s1.sos.mo.gov/votemissouri/request,https://s1.sos.mo.gov/elections/voterlookup/
-MT,Montana,https://sosmt.gov/Portals/142/Elections/Forms/Voter_Registration_Application.pdf,https://app.mt.gov/cgi-bin/voterinfo/voterinfo.cgi
-NE,Nebraska,https://www.nebraska.gov/apps-sos-voter-registration/eligibility/citizen,https://www.votercheck.necvr.ne.gov/VoterView/RegistrantSearch.do
-NV,Nevada,https://www.nvsos.gov/SOSVoterServices/Registration/Step0-a.aspx,https://www.nvsos.gov/votersearch/
-NH,New Hampshire,http://sos.nh.gov/HowRegVote.aspx,https://app.sos.nh.gov/Public/PartyInfo.aspx
-NJ,New Jersey,https://www.state.nj.us/state/elections/voting-information.html,https://voter.njsvrs.com/PublicAccess/servlet/com.saber.publicaccess.control.PublicAccessNavigationServlet?USERPROCESS=PublicSearch
-NM,New Mexico,http://www.sos.state.nm.us/Voter_Information/Voter_Registration_Information.aspx,https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1
-NY,New York,http://www.elections.ny.gov/votingregister.html,https://voterlookup.elections.ny.gov/
-NC,North Carolina,https://www.ncsbe.gov/Portals/0/Forms/NCVoterRegForm06W.pdf,https://vt.ncsbe.gov/RegLkup/
-ND,North Dakota,https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=71&ptlPKID=7,https://vip.sos.nd.gov/WhereToVoteID.aspx?tab=VoterLookup&ptlPKID=7&ptlhPKID=51
-OH,Ohio,https://olvr.sos.state.oh.us/AffirmEligibility,https://voterlookup.sos.state.oh.us/voterlookup.aspx
-OK,Oklahoma,https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf,https://services.okelections.us/voterSearch.aspx
-OR,Oregon,https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS,https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do
-PA,Pennsylvania,https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx,https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx
-RI,Rhode Island,https://vote.sos.ri.gov/,https://vote.sos.ri.gov/
-SC,South Carolina,https://info.scvotes.sc.gov/eng/ovr/start.aspx,https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo
-SD,South Dakota,https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf,https://vip.sdsos.gov/viplogin.aspx
-TN,Tennessee,https://ovr.govote.tn.gov/,https://tnmap.tn.gov/voterlookup/
-TX,Texas,https://webservices.sos.state.tx.us/vrapp/index.asp,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do
-UT,Utah,https://secure.utah.gov/voterreg/login.html?selection=REGISTER,https://vote.utah.gov/vote/menu/index
-VT,Vermont,https://olvr.sec.state.vt.us/,https://mvp.sec.state.vt.us/
-VA,Virginia,https://vote.elections.virginia.gov/Registration/Eligibility,https://vote.elections.virginia.gov/VoterInformation
-WA,Washington,https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR,https://weiapplets.sos.wa.gov/MyVote/#/login
-DC,"Washington, DC",https://www.vote4dc.com/ApplyInstructions/Register,https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status
-WV,West Virginia,https://ovr.sos.wv.gov/Register/Landing#Qualifications,https://services.sos.wv.gov/Elections/Voter/AmIRegisteredToVote
-WI,Wisconsin,https://myvote.wi.gov/en-us/RegisterToVote,https://myvote.wi.gov/en-us/MyVoterInfo
-WY,Wyoming,http://soswy.state.wy.us/Forms/Elections/General/VoterRegistrationForm.pdf,http://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf
+stateAbbrev,state,voterRegistrationHomePage,registrationStatusCheck,midtermsElectionDate,earlyVotingStartDate,earlyVotingEndDate,additionalInformation
+AL,Alabama,https://sos.alabama.gov/alabama-votes/voter/register-to-vote,https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do,"November 6, 2018",NA,NA,ABSENTEE IN PERSON
+AK,Alaska,https://voterregistration.alaska.gov/,https://myvoterinformation.alaska.gov/,"November 6, 2018","October 22, 2018","November 6, 2018",
+AZ,Arizona,https://servicearizona.com/webapp/evoter/selectLanguage,https://voter.azsos.gov/VoterView/RegistrantSearch.do,"November 6, 2018","October 11, 2018","November 6, 2018",
+AR,Arkansas,https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information,https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do,"November 6, 2018","October 22, 2018","November 5, 2018",
+CA,California,https://registertovote.ca.gov/,https://voterstatus.sos.ca.gov/,"November 6, 2018","October 7, 2018","November 5, 2018",VARIES BY COUNTY
+CO,Colorado,https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml,https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml,"November 6, 2018","October 30, 2018","November 6, 2018",
+CT,Connecticut,https://voterregistration.ct.gov/OLVR/welcome.do,https://portaldir.ct.gov/sots/LookUp.aspx,"November 6, 2018","October 6, 2018","November 6, 2018",
+DE,Delaware,https://ivote.de.gov/voterregterms.aspx,https://ivote.de.gov/voterlogin.aspx,"November 6, 2018",NA,"November 5, 2018",ABSENTEE IN PERSON - ENDS NOON DAY BEFORE ELECTION
+FL,Florida,https://registertovoteflorida.gov/en/Registration/Index,https://registration.elections.myflorida.com/CheckVoterStatus,"November 6, 2018","October 27, 2018","November 3, 2018",
+GA,Georgia,https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button,https://www.mvp.sos.ga.gov/MVP/mvp.do,"November 6, 2018","October 15, 2018","November 2, 2018",
+HI,Hawaii,https://olvr.hawaii.gov/register.aspx,https://elections.hawaii.gov/resources/county-election-divisions/,"November 6, 2018","October 23, 2018","November 3, 2018",
+ID,Idaho,https://apps.idahovotes.gov/OnlineVoterRegistration/Home/SubmitWelcome,https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx,"November 6, 2018","October 22, 2018","November 2, 2018",ENDS 5PM FRIDAY
+IL,Illinois,https://ova.elections.il.gov/Step0.aspx,https://ova.elections.il.gov/RegistrationLookup.aspx,"November 6, 2018","October 22, 2018","November 5, 2018",
+IN,Indiana,https://indianavoters.in.gov/,https://indianavoters.in.gov/,"November 6, 2018","October 9, 2018","November 5, 2018",ENDS NOON MONDAY
+IA,Iowa,https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration,https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx,"November 6, 2018",NA,"November 5, 2018",ABSENTEE IN PERSON WHEN BALLOTS ARE AVAILABLE
+KS,Kansas,https://www.kdor.ks.gov/apps/voterreg/secure/default.aspx,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,"November 6, 2018","October 30, 2018","November 5, 2018",ENDS NOON MONDAY
+KY,Kentucky,https://vrsws.sos.ky.gov/ovrweb/,https://vrsws.sos.ky.gov/VIC/,"November 6, 2018","October 25, 2018","November 5, 2018",ABSENTEE IN PERSON IF ELIGIBLE
+LA,Louisiana,https://voterportal.sos.la.gov/VoterRegistration,https://voterportal.sos.la.gov/Home/VoterLogin,"November 6, 2018","October 23, 2018","October 30, 2018",
+ME,Maine,https://www.maine.gov/sos/cec/elec/data/voterregcard2017.pdf,https://www1.maine.gov/portal/government/edemocracy/voter_lookup.php,"November 6, 2018","October 7, 2018","November 6, 2018",AS SOON AS BALLOTS ARE AVAILABLE
+MD,Maryland,https://voterservices.elections.maryland.gov/OnlineVoterRegistration/VoterType,https://voterservices.elections.maryland.gov/votersearch,"November 6, 2018","October 25, 2018","November 1, 2018",
+MA,Massachusetts,https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register,https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx,"November 6, 2018","October 22, 2018","November 2, 2018",
+MI,Michigan,https://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf,https://webapps.sos.state.mi.us/MVIC/,"November 6, 2018",NA,NA,https://bit.ly/2OP2WO8
+MN,Minnesota,https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx,https://mnvotes.sos.state.mn.us/VoterStatus.aspx,"November 6, 2018","September 21, 2018","November 5, 2018",
+MS,Mississippi,http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf,https://www.msegov.com/sos/voter_registration/amiregistered/Search,"November 6, 2018",NA,"November 4, 2018",ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE
+MO,Missouri,https://s1.sos.mo.gov/votemissouri/request,https://s1.sos.mo.gov/elections/voterlookup/,"November 6, 2018",NA,"November 6, 2018",ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE
+MT,Montana,https://sosmt.gov/Portals/142/Elections/Forms/Voter_Registration_Application.pdf,https://app.mt.gov/cgi-bin/voterinfo/voterinfo.cgi,"November 6, 2018","October 7, 2018","November 5, 2018",ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE
+NE,Nebraska,https://www.nebraska.gov/apps-sos-voter-registration/eligibility/citizen,https://www.votercheck.necvr.ne.gov/VoterView/RegistrantSearch.do,"November 6, 2018","October 7, 2018","November 6, 2018",
+NV,Nevada,https://www.nvsos.gov/SOSVoterServices/Registration/Step0-a.aspx,https://www.nvsos.gov/votersearch/,"November 6, 2018",NA,NA,VARIES BY COUNTY
+NH,New Hampshire,http://sos.nh.gov/HowRegVote.aspx,https://app.sos.nh.gov/Public/PartyInfo.aspx,"November 6, 2018",NA,NA,
+NJ,New Jersey,https://www.state.nj.us/state/elections/voting-information.html,https://voter.njsvrs.com/PublicAccess/servlet/com.saber.publicaccess.control.PublicAccessNavigationServlet?USERPROCESS=PublicSearch,"November 6, 2018","September 22, 2018","November 5, 2018",AS SOON AS BALLOTS ARE AVAILABLE - VARIES BY COUNTY - ENDS 3PM MONDAY
+NM,New Mexico,http://www.sos.state.nm.us/Voter_Information/Voter_Registration_Information.aspx,https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1,"November 6, 2018","October 20, 2018","November 3, 2018",
+NY,New York,http://www.elections.ny.gov/votingregister.html,https://voterlookup.elections.ny.gov/,"November 6, 2018","October 5, 2018","November 5, 2018",ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE
+NC,North Carolina,https://www.ncsbe.gov/Portals/0/Forms/NCVoterRegForm06W.pdf,https://vt.ncsbe.gov/RegLkup/,"November 6, 2018","October 18, 2018","November 3, 2018",
+ND,North Dakota,https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=71&ptlPKID=7,https://vip.sos.nd.gov/WhereToVoteID.aspx?tab=VoterLookup&ptlPKID=7&ptlhPKID=51,"November 6, 2018",NA,NA,VARIES BY COUNTY
+OH,Ohio,https://olvr.sos.state.oh.us/AffirmEligibility,https://voterlookup.sos.state.oh.us/voterlookup.aspx,"November 6, 2018","October 8, 2018","November 5, 2018",ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE
+OK,Oklahoma,https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf,https://services.okelections.us/voterSearch.aspx,"November 6, 2018","November 1, 2018","November 3, 2018",THURSDAY & FRIDAY 8AM - 6PM  SATURDAY 9AM-2PM
+OR,Oregon,https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS,https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do,"November 6, 2018",NA,"November 6, 2018",IN PERSON OR VIA MAIL UNTIL 8PM ELECTION DAY
+PA,Pennsylvania,https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx,https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx,"November 6, 2018",NA,NA,VARIES BY COUNTY
+RI,Rhode Island,https://vote.sos.ri.gov/,https://vote.sos.ri.gov/,"November 6, 2018",NA,"November 6, 2018",VIA MAIL
+SC,South Carolina,https://info.scvotes.sc.gov/eng/ovr/start.aspx,https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo,"November 6, 2018",NA,"November 5, 2018",ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE - ENDS 5PM MONDAY
+SD,South Dakota,https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf,https://vip.sdsos.gov/viplogin.aspx,"November 6, 2018","September 21, 2018",,ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE - VARIES BY COUNTY
+TN,Tennessee,https://ovr.govote.tn.gov/,https://tnmap.tn.gov/voterlookup/,"November 6, 2018","October 17, 2018","November 1, 2018",
+TX,Texas,https://webservices.sos.state.tx.us/vrapp/index.asp,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do,"November 6, 2018","October 22, 2018","November 2, 2018",
+UT,Utah,https://secure.utah.gov/voterreg/login.html?selection=REGISTER,https://vote.utah.gov/vote/menu/index,"November 6, 2018","October 23, 2018","November 2, 2018",
+VT,Vermont,https://olvr.sec.state.vt.us/,https://mvp.sec.state.vt.us/,"November 6, 2018","September 22, 2018","November 6, 2018",
+VA,Virginia,https://vote.elections.virginia.gov/Registration/Eligibility,https://vote.elections.virginia.gov/VoterInformation,"November 6, 2018","September 22, 2018","November 3, 2018",ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE - ENDS 5PM SATURDAY
+WA,Washington,https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR,https://weiapplets.sos.wa.gov/MyVote/#/login,"November 6, 2018",NA,NA,VARIES BY COUNTY
+DC,"Washington, DC",https://www.vote4dc.com/ApplyInstructions/Register,https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status,"November 6, 2018","October 22, 2018","November 5, 2018",4:45 DAY BEFORE ELECTION
+WV,West Virginia,https://ovr.sos.wv.gov/Register/Landing#Qualifications,https://services.sos.wv.gov/Elections/Voter/AmIRegisteredToVote,"November 6, 2018","October 24, 2018","November 3, 2018",
+WI,Wisconsin,https://myvote.wi.gov/en-us/RegisterToVote,https://myvote.wi.gov/en-us/MyVoterInfo,"November 6, 2018",NA,"November 2, 2018",VARIES BY COUNTY - ENDS 5PM FRIDAY
+WY,Wyoming,http://soswy.state.wy.us/Forms/Elections/General/VoterRegistrationForm.pdf,http://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf,"November 6, 2018","September 27, 2018","November 6, 2018",

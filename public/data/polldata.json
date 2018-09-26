@@ -3,306 +3,510 @@
     "stateAbbrev": "AL",
     "state": "Alabama",
     "voterRegistrationHomePage": "https://sos.alabama.gov/alabama-votes/voter/register-to-vote",
-    "registrationStatusCheck": "https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do"
+    "registrationStatusCheck": "https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "NA",
+    "additionalInformation": "ABSENTEE IN PERSON"
   },
   {
     "stateAbbrev": "AK",
     "state": "Alaska",
     "voterRegistrationHomePage": "https://voterregistration.alaska.gov/",
-    "registrationStatusCheck": "https://myvoterinformation.alaska.gov/"
+    "registrationStatusCheck": "https://myvoterinformation.alaska.gov/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 22, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "AZ",
     "state": "Arizona",
     "voterRegistrationHomePage": "https://servicearizona.com/webapp/evoter/selectLanguage",
-    "registrationStatusCheck": "https://voter.azsos.gov/VoterView/RegistrantSearch.do"
+    "registrationStatusCheck": "https://voter.azsos.gov/VoterView/RegistrantSearch.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 11, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "AR",
     "state": "Arkansas",
     "voterRegistrationHomePage": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information",
-    "registrationStatusCheck": "https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do"
+    "registrationStatusCheck": "https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 22, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "CA",
     "state": "California",
     "voterRegistrationHomePage": "https://registertovote.ca.gov/",
-    "registrationStatusCheck": "https://voterstatus.sos.ca.gov/"
+    "registrationStatusCheck": "https://voterstatus.sos.ca.gov/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 7, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "VARIES BY COUNTY"
   },
   {
     "stateAbbrev": "CO",
     "state": "Colorado",
     "voterRegistrationHomePage": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml",
-    "registrationStatusCheck": "https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml"
+    "registrationStatusCheck": "https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 30, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "CT",
     "state": "Connecticut",
     "voterRegistrationHomePage": "https://voterregistration.ct.gov/OLVR/welcome.do",
-    "registrationStatusCheck": "https://portaldir.ct.gov/sots/LookUp.aspx"
+    "registrationStatusCheck": "https://portaldir.ct.gov/sots/LookUp.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 6, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "DE",
     "state": "Delaware",
     "voterRegistrationHomePage": "https://ivote.de.gov/voterregterms.aspx",
-    "registrationStatusCheck": "https://ivote.de.gov/voterlogin.aspx"
+    "registrationStatusCheck": "https://ivote.de.gov/voterlogin.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON - ENDS NOON DAY BEFORE ELECTION"
   },
   {
     "stateAbbrev": "FL",
     "state": "Florida",
     "voterRegistrationHomePage": "https://registertovoteflorida.gov/en/Registration/Index",
-    "registrationStatusCheck": "https://registration.elections.myflorida.com/CheckVoterStatus"
+    "registrationStatusCheck": "https://registration.elections.myflorida.com/CheckVoterStatus",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 27, 2018",
+    "earlyVotingEndDate": "November 3, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "GA",
     "state": "Georgia",
     "voterRegistrationHomePage": "https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button",
-    "registrationStatusCheck": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+    "registrationStatusCheck": "https://www.mvp.sos.ga.gov/MVP/mvp.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 15, 2018",
+    "earlyVotingEndDate": "November 2, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "HI",
     "state": "Hawaii",
     "voterRegistrationHomePage": "https://olvr.hawaii.gov/register.aspx",
-    "registrationStatusCheck": "https://elections.hawaii.gov/resources/county-election-divisions/"
+    "registrationStatusCheck": "https://elections.hawaii.gov/resources/county-election-divisions/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 23, 2018",
+    "earlyVotingEndDate": "November 3, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "ID",
     "state": "Idaho",
     "voterRegistrationHomePage": "https://apps.idahovotes.gov/OnlineVoterRegistration/Home/SubmitWelcome",
-    "registrationStatusCheck": "https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx"
+    "registrationStatusCheck": "https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 22, 2018",
+    "earlyVotingEndDate": "November 2, 2018",
+    "additionalInformation": "ENDS 5PM FRIDAY"
   },
   {
     "stateAbbrev": "IL",
     "state": "Illinois",
     "voterRegistrationHomePage": "https://ova.elections.il.gov/Step0.aspx",
-    "registrationStatusCheck": "https://ova.elections.il.gov/RegistrationLookup.aspx"
+    "registrationStatusCheck": "https://ova.elections.il.gov/RegistrationLookup.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 22, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "IN",
     "state": "Indiana",
     "voterRegistrationHomePage": "https://indianavoters.in.gov/",
-    "registrationStatusCheck": "https://indianavoters.in.gov/"
+    "registrationStatusCheck": "https://indianavoters.in.gov/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 9, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ENDS NOON MONDAY"
   },
   {
     "stateAbbrev": "IA",
     "state": "Iowa",
     "voterRegistrationHomePage": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration",
-    "registrationStatusCheck": "https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+    "registrationStatusCheck": "https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON WHEN BALLOTS ARE AVAILABLE"
   },
   {
     "stateAbbrev": "KS",
     "state": "Kansas",
     "voterRegistrationHomePage": "https://www.kdor.ks.gov/apps/voterreg/secure/default.aspx",
-    "registrationStatusCheck": "https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do"
+    "registrationStatusCheck": "https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 30, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ENDS NOON MONDAY"
   },
   {
     "stateAbbrev": "KY",
     "state": "Kentucky",
     "voterRegistrationHomePage": "https://vrsws.sos.ky.gov/ovrweb/",
-    "registrationStatusCheck": "https://vrsws.sos.ky.gov/VIC/"
+    "registrationStatusCheck": "https://vrsws.sos.ky.gov/VIC/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 25, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE"
   },
   {
     "stateAbbrev": "LA",
     "state": "Louisiana",
     "voterRegistrationHomePage": "https://voterportal.sos.la.gov/VoterRegistration",
-    "registrationStatusCheck": "https://voterportal.sos.la.gov/Home/VoterLogin"
+    "registrationStatusCheck": "https://voterportal.sos.la.gov/Home/VoterLogin",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 23, 2018",
+    "earlyVotingEndDate": "October 30, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "ME",
     "state": "Maine",
     "voterRegistrationHomePage": "https://www.maine.gov/sos/cec/elec/data/voterregcard2017.pdf",
-    "registrationStatusCheck": "https://www1.maine.gov/portal/government/edemocracy/voter_lookup.php"
+    "registrationStatusCheck": "https://www1.maine.gov/portal/government/edemocracy/voter_lookup.php",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 7, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": "AS SOON AS BALLOTS ARE AVAILABLE"
   },
   {
     "stateAbbrev": "MD",
     "state": "Maryland",
     "voterRegistrationHomePage": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/VoterType",
-    "registrationStatusCheck": "https://voterservices.elections.maryland.gov/votersearch"
+    "registrationStatusCheck": "https://voterservices.elections.maryland.gov/votersearch",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 25, 2018",
+    "earlyVotingEndDate": "November 1, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "MA",
     "state": "Massachusetts",
     "voterRegistrationHomePage": "https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register",
-    "registrationStatusCheck": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx"
+    "registrationStatusCheck": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 22, 2018",
+    "earlyVotingEndDate": "November 2, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "MI",
     "state": "Michigan",
     "voterRegistrationHomePage": "https://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf",
-    "registrationStatusCheck": "https://webapps.sos.state.mi.us/MVIC/"
+    "registrationStatusCheck": "https://webapps.sos.state.mi.us/MVIC/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "NA",
+    "additionalInformation": "https://bit.ly/2OP2WO8"
   },
   {
     "stateAbbrev": "MN",
     "state": "Minnesota",
     "voterRegistrationHomePage": "https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx",
-    "registrationStatusCheck": "https://mnvotes.sos.state.mn.us/VoterStatus.aspx"
+    "registrationStatusCheck": "https://mnvotes.sos.state.mn.us/VoterStatus.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "September 21, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "MS",
     "state": "Mississippi",
     "voterRegistrationHomePage": "http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf",
-    "registrationStatusCheck": "https://www.msegov.com/sos/voter_registration/amiregistered/Search"
+    "registrationStatusCheck": "https://www.msegov.com/sos/voter_registration/amiregistered/Search",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 4, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE"
   },
   {
     "stateAbbrev": "MO",
     "state": "Missouri",
     "voterRegistrationHomePage": "https://s1.sos.mo.gov/votemissouri/request",
-    "registrationStatusCheck": "https://s1.sos.mo.gov/elections/voterlookup/"
+    "registrationStatusCheck": "https://s1.sos.mo.gov/elections/voterlookup/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE"
   },
   {
     "stateAbbrev": "MT",
     "state": "Montana",
     "voterRegistrationHomePage": "https://sosmt.gov/Portals/142/Elections/Forms/Voter_Registration_Application.pdf",
-    "registrationStatusCheck": "https://app.mt.gov/cgi-bin/voterinfo/voterinfo.cgi"
+    "registrationStatusCheck": "https://app.mt.gov/cgi-bin/voterinfo/voterinfo.cgi",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 7, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE"
   },
   {
     "stateAbbrev": "NE",
     "state": "Nebraska",
     "voterRegistrationHomePage": "https://www.nebraska.gov/apps-sos-voter-registration/eligibility/citizen",
-    "registrationStatusCheck": "https://www.votercheck.necvr.ne.gov/VoterView/RegistrantSearch.do"
+    "registrationStatusCheck": "https://www.votercheck.necvr.ne.gov/VoterView/RegistrantSearch.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 7, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "NV",
     "state": "Nevada",
     "voterRegistrationHomePage": "https://www.nvsos.gov/SOSVoterServices/Registration/Step0-a.aspx",
-    "registrationStatusCheck": "https://www.nvsos.gov/votersearch/"
+    "registrationStatusCheck": "https://www.nvsos.gov/votersearch/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "NA",
+    "additionalInformation": "VARIES BY COUNTY"
   },
   {
     "stateAbbrev": "NH",
     "state": "New Hampshire",
     "voterRegistrationHomePage": "http://sos.nh.gov/HowRegVote.aspx",
-    "registrationStatusCheck": "https://app.sos.nh.gov/Public/PartyInfo.aspx"
+    "registrationStatusCheck": "https://app.sos.nh.gov/Public/PartyInfo.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "NA",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "NJ",
     "state": "New Jersey",
     "voterRegistrationHomePage": "https://www.state.nj.us/state/elections/voting-information.html",
-    "registrationStatusCheck": "https://voter.njsvrs.com/PublicAccess/servlet/com.saber.publicaccess.control.PublicAccessNavigationServlet?USERPROCESS=PublicSearch"
+    "registrationStatusCheck": "https://voter.njsvrs.com/PublicAccess/servlet/com.saber.publicaccess.control.PublicAccessNavigationServlet?USERPROCESS=PublicSearch",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "September 22, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "AS SOON AS BALLOTS ARE AVAILABLE - VARIES BY COUNTY - ENDS 3PM MONDAY"
   },
   {
     "stateAbbrev": "NM",
     "state": "New Mexico",
     "voterRegistrationHomePage": "http://www.sos.state.nm.us/Voter_Information/Voter_Registration_Information.aspx",
-    "registrationStatusCheck": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1"
+    "registrationStatusCheck": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 20, 2018",
+    "earlyVotingEndDate": "November 3, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "NY",
     "state": "New York",
     "voterRegistrationHomePage": "http://www.elections.ny.gov/votingregister.html",
-    "registrationStatusCheck": "https://voterlookup.elections.ny.gov/"
+    "registrationStatusCheck": "https://voterlookup.elections.ny.gov/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 5, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE"
   },
   {
     "stateAbbrev": "NC",
     "state": "North Carolina",
     "voterRegistrationHomePage": "https://www.ncsbe.gov/Portals/0/Forms/NCVoterRegForm06W.pdf",
-    "registrationStatusCheck": "https://vt.ncsbe.gov/RegLkup/"
+    "registrationStatusCheck": "https://vt.ncsbe.gov/RegLkup/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 18, 2018",
+    "earlyVotingEndDate": "November 3, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "ND",
     "state": "North Dakota",
     "voterRegistrationHomePage": "https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=71&ptlPKID=7",
-    "registrationStatusCheck": "https://vip.sos.nd.gov/WhereToVoteID.aspx?tab=VoterLookup&ptlPKID=7&ptlhPKID=51"
+    "registrationStatusCheck": "https://vip.sos.nd.gov/WhereToVoteID.aspx?tab=VoterLookup&ptlPKID=7&ptlhPKID=51",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "NA",
+    "additionalInformation": "VARIES BY COUNTY"
   },
   {
     "stateAbbrev": "OH",
     "state": "Ohio",
     "voterRegistrationHomePage": "https://olvr.sos.state.oh.us/AffirmEligibility",
-    "registrationStatusCheck": "https://voterlookup.sos.state.oh.us/voterlookup.aspx"
+    "registrationStatusCheck": "https://voterlookup.sos.state.oh.us/voterlookup.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 8, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE"
   },
   {
     "stateAbbrev": "OK",
     "state": "Oklahoma",
     "voterRegistrationHomePage": "https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf",
-    "registrationStatusCheck": "https://services.okelections.us/voterSearch.aspx"
+    "registrationStatusCheck": "https://services.okelections.us/voterSearch.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "November 1, 2018",
+    "earlyVotingEndDate": "November 3, 2018",
+    "additionalInformation": "THURSDAY & FRIDAY 8AM - 6PM  SATURDAY 9AM-2PM"
   },
   {
     "stateAbbrev": "OR",
     "state": "Oregon",
     "voterRegistrationHomePage": "https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS",
-    "registrationStatusCheck": "https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do"
+    "registrationStatusCheck": "https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": "IN PERSON OR VIA MAIL UNTIL 8PM ELECTION DAY"
   },
   {
     "stateAbbrev": "PA",
     "state": "Pennsylvania",
     "voterRegistrationHomePage": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-    "registrationStatusCheck": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx"
+    "registrationStatusCheck": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "NA",
+    "additionalInformation": "VARIES BY COUNTY"
   },
   {
     "stateAbbrev": "RI",
     "state": "Rhode Island",
     "voterRegistrationHomePage": "https://vote.sos.ri.gov/",
-    "registrationStatusCheck": "https://vote.sos.ri.gov/"
+    "registrationStatusCheck": "https://vote.sos.ri.gov/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": "VIA MAIL"
   },
   {
     "stateAbbrev": "SC",
     "state": "South Carolina",
     "voterRegistrationHomePage": "https://info.scvotes.sc.gov/eng/ovr/start.aspx",
-    "registrationStatusCheck": "https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo"
+    "registrationStatusCheck": "https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE - ENDS 5PM MONDAY"
   },
   {
     "stateAbbrev": "SD",
     "state": "South Dakota",
     "voterRegistrationHomePage": "https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf",
-    "registrationStatusCheck": "https://vip.sdsos.gov/viplogin.aspx"
+    "registrationStatusCheck": "https://vip.sdsos.gov/viplogin.aspx",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "September 21, 2018",
+    "earlyVotingEndDate": "",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE - VARIES BY COUNTY"
   },
   {
     "stateAbbrev": "TN",
     "state": "Tennessee",
     "voterRegistrationHomePage": "https://ovr.govote.tn.gov/",
-    "registrationStatusCheck": "https://tnmap.tn.gov/voterlookup/"
+    "registrationStatusCheck": "https://tnmap.tn.gov/voterlookup/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 17, 2018",
+    "earlyVotingEndDate": "November 1, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "TX",
     "state": "Texas",
     "voterRegistrationHomePage": "https://webservices.sos.state.tx.us/vrapp/index.asp",
-    "registrationStatusCheck": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+    "registrationStatusCheck": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 22, 2018",
+    "earlyVotingEndDate": "November 2, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "UT",
     "state": "Utah",
     "voterRegistrationHomePage": "https://secure.utah.gov/voterreg/login.html?selection=REGISTER",
-    "registrationStatusCheck": "https://vote.utah.gov/vote/menu/index"
+    "registrationStatusCheck": "https://vote.utah.gov/vote/menu/index",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 23, 2018",
+    "earlyVotingEndDate": "November 2, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "VT",
     "state": "Vermont",
     "voterRegistrationHomePage": "https://olvr.sec.state.vt.us/",
-    "registrationStatusCheck": "https://mvp.sec.state.vt.us/"
+    "registrationStatusCheck": "https://mvp.sec.state.vt.us/",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "September 22, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "VA",
     "state": "Virginia",
     "voterRegistrationHomePage": "https://vote.elections.virginia.gov/Registration/Eligibility",
-    "registrationStatusCheck": "https://vote.elections.virginia.gov/VoterInformation"
+    "registrationStatusCheck": "https://vote.elections.virginia.gov/VoterInformation",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "September 22, 2018",
+    "earlyVotingEndDate": "November 3, 2018",
+    "additionalInformation": "ABSENTEE IN PERSON IF ELIGIBLE AS SOON AS BALLOTS ARE AVAILABLE - ENDS 5PM SATURDAY"
   },
   {
     "stateAbbrev": "WA",
     "state": "Washington",
     "voterRegistrationHomePage": "https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR",
-    "registrationStatusCheck": "https://weiapplets.sos.wa.gov/MyVote/#/login"
+    "registrationStatusCheck": "https://weiapplets.sos.wa.gov/MyVote/#/login",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "NA",
+    "additionalInformation": "VARIES BY COUNTY"
   },
   {
     "stateAbbrev": "DC",
     "state": "Washington, DC",
     "voterRegistrationHomePage": "https://www.vote4dc.com/ApplyInstructions/Register",
-    "registrationStatusCheck": "https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status"
+    "registrationStatusCheck": "https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 22, 2018",
+    "earlyVotingEndDate": "November 5, 2018",
+    "additionalInformation": "4:45 DAY BEFORE ELECTION"
   },
   {
     "stateAbbrev": "WV",
     "state": "West Virginia",
     "voterRegistrationHomePage": "https://ovr.sos.wv.gov/Register/Landing#Qualifications",
-    "registrationStatusCheck": "https://services.sos.wv.gov/Elections/Voter/AmIRegisteredToVote"
+    "registrationStatusCheck": "https://services.sos.wv.gov/Elections/Voter/AmIRegisteredToVote",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "October 24, 2018",
+    "earlyVotingEndDate": "November 3, 2018",
+    "additionalInformation": ""
   },
   {
     "stateAbbrev": "WI",
     "state": "Wisconsin",
     "voterRegistrationHomePage": "https://myvote.wi.gov/en-us/RegisterToVote",
-    "registrationStatusCheck": "https://myvote.wi.gov/en-us/MyVoterInfo"
+    "registrationStatusCheck": "https://myvote.wi.gov/en-us/MyVoterInfo",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "NA",
+    "earlyVotingEndDate": "November 2, 2018",
+    "additionalInformation": "VARIES BY COUNTY - ENDS 5PM FRIDAY"
   },
   {
     "stateAbbrev": "WY",
     "state": "Wyoming",
     "voterRegistrationHomePage": "http://soswy.state.wy.us/Forms/Elections/General/VoterRegistrationForm.pdf",
-    "registrationStatusCheck": "http://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf"
+    "registrationStatusCheck": "http://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf",
+    "midtermsElectionDate": "November 6, 2018",
+    "earlyVotingStartDate": "September 27, 2018",
+    "earlyVotingEndDate": "November 6, 2018",
+    "additionalInformation": ""
   }
 ]
